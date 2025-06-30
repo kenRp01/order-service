@@ -1,0 +1,7 @@
+/Users/owner/git/order-service/src/main/java/com/techie/microservices/order/OrderServiceApplication.java
+/Users/owner/git/order-service/src/main/java/com/techie/microservices/order/client/InventoryClient.java
+/Users/owner/git/order-service/src/main/java/com/techie/microservices/order/controller/OrderController.java
+/Users/owner/git/order-service/src/main/java/com/techie/microservices/order/dto/OrderRequest.java
+/Users/owner/git/order-service/src/main/java/com/techie/microservices/order/model/Order.java
+/Users/owner/git/order-service/src/main/java/com/techie/microservices/order/repositry/OrderRepository.java
+/Users/owner/git/order-service/src/main/java/com/techie/microservices/order/service/OrderService.java
