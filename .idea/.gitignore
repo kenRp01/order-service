@@ -1,3 +1,71 @@
-# デフォルトの無視対象ファイル
-/shelf/
-/workspace.xml
+# Java
+*.class
+*.jar
+*.war
+*.ear
+
+# Logs
+*.log
+logs/
+log/
+*.pid
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Maven
+target/
+!.mvn/wrapper/maven-wrapper.jar
+
+# Gradle
+.gradle/
+build/
+
+# Eclipse
+.classpath
+.project
+.settings/
+bin/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.ipr
+*.iws
+out/
+
+# VS Code
+.vscode/
+
+# Test reports
+test-output/
+surefire-reports/
+jacoco.exec
+
+# Spring Boot
+spring.log
+
+# Environment files
+.env
+.env.*
+
+# Node (もしフロントエンドも含む場合)
+node_modules/
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+
+# Docker
+*.local
+docker-compose.override.yml
+
+# その他
+*.swp
+*.swo
+
+# Ignore sensitive files
+application-local.properties
+application-dev.properties
+application-test.properties
+application-prod.properties
