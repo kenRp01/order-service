@@ -10,6 +10,9 @@ logs/
 log/
 *.pid
 
+# DB
+mysql/
+
 # OS generated files
 .DS_Store
 Thumbs.db
